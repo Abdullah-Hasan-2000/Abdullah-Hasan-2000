@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Simple Inventory Management and Data Analytics Project<br>🌱 I’m currently learning ReactJS and Django<br>💬 Ask me about Data Analysis using Python, SQL, Power BI and Excel<br>⚡ Fun fact 
+🔭 I’m currently working on a Simple Inventory Management and Data Analytics Project<br>🌱 I’m currently learning ReactJS and Django<br>💬 Ask me about Data Analysis using Python, SQL, Power BI and Excel<br>
 
 
 ## 🌐 Socials:
